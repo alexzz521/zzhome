@@ -1,2 +1,2 @@
 # zzhome
-a home for zz
+study
